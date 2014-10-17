@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[omi:home|Door43 (omi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-omi|d43-omi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-omi/archive/master.zip|d43-omi.zip]]
+
+**Recent Changes**
+{{changes>ns = omi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/omi|Ethnologue data]]
+
